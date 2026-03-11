@@ -1,0 +1,24 @@
+.external-style{
+    background-color:#fff3e0;
+    border:3px solid #fb8c00;
+    padding:20px;
+    margin:20px auto;
+    width:70%;
+    border-radius:10px;
+}
+
+.external-style ul{
+    text-align:left;
+    margin-left:35%;
+}
+
+.external-style h2{
+    color:#e65100;
+}
+
+footer{
+    margin-top:40px;
+    background-color:#333;
+    color:white;
+    padding:10px;
+}
